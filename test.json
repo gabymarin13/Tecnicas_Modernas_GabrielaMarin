@@ -1,0 +1,18 @@
+[
+{
+    "name": "Sugar",
+    "type": "Sugar",
+    "amount": 2,
+    "children": ["Paco", "Lola"]  
+},
+{
+    "name": "Salt",
+    "type": "Salt",
+    "amount": "1/2 cup"
+},
+{
+    "name": "Butter",
+    "type": "Butter",
+    "amount": 4
+}
+]
